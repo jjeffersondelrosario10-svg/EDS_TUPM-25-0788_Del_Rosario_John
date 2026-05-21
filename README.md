@@ -11,9 +11,9 @@
 ---
 
 ## Dataset
-Real Kaggle dataset: **berkerisen/wind-turbine-scada-dataset**
+ Kaggle dataset: **berkerisen/wind-turbine-scada-dataset**
 Download T1.csv from: https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset
-Place it in the `data/` folder as `T1.csv`
+
 
 ## Unique Filter (Birthday: January 10, 2007)
 | Filter | Value | Derivation |
